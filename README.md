@@ -1,1 +1,1 @@
-# react-js-interview-questions
+# React JavaScript Interview Prep
